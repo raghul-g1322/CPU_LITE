@@ -73,7 +73,6 @@ SRAM runs at CPU clock (150 MHz); Data Memory runs at 70 MHz.
 ---
 
 ## 📂 Project Structure
-
 CPU-Lite/
 │── docs/ # Block diagrams, timing diagrams, micro-architecture notes
 │── rtl/ # RTL design sources
@@ -90,4 +89,3 @@ CPU-Lite/
 │ └── tb_top.v # Top-level testbench (full system verification)
 │── reports/ # STA, CDC, simulation logs
 │── README.md # Project description
-
